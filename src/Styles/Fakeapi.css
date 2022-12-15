@@ -1,0 +1,67 @@
+
+
+.headerFake {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.input {
+    box-shadow: 0 4px 20px 0 rgb(0, 0, 0), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.get {
+    gap: 10px;
+  }
+.aa {
+    margin: 10px;
+}
+
+.post{
+    margin-top: 15px;
+}
+
+.containerFake{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+.spanId{
+    margin-top: 10px;
+}
+
+.buscadorId {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 25px;
+}
+.formPost {
+    flex-direction: column;
+    align-items: center;
+}
+.containerPost {
+    padding: 10px;
+}
+
+.contenedorForm {
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 2px;
+
+}
+
+.btn {
+    box-shadow: 0 4px 20px 0 rgb(0, 0, 0), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.card-body {
+    color:initial !important;
+}
+.card-header {
+    color:initial !important;
+}
+
+.card {
+    min-width: 360px;
+}

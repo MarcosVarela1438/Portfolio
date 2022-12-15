@@ -1,0 +1,44 @@
+.tableC {
+    text-align: center;
+    margin: 10px;
+  }
+  
+  .tableCoins {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .tableCoins th {
+    width: 16%;
+  }
+  
+  .infoCoins {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 70px;
+    margin-top: 10px;
+  }
+  .coins{
+    display: flex;
+    justify-content: space-between !important;
+    width: 220px !important;
+  }
+  
+  .infoCoins td {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 16%;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  
+   .imgCoins {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-items: center;
+    margin-bottom: 10px;
+  }
+  
